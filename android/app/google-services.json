@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "695470357551",
+    "project_id": "taxi-driver-65486",
+    "storage_bucket": "taxi-driver-65486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695470357551:android:70a0a5d863a0d8f8a81ada",
+        "android_client_info": {
+          "package_name": "com.africasystems.taxidriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695470357551-0kpd2dejqlakn3r9k7q042q99nhoou5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2EGthKG95S2ZstBOpadDBrd3dGmbLpQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695470357551-0kpd2dejqlakn3r9k7q042q99nhoou5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695470357551:android:bef647f2ca720a25a81ada",
+        "android_client_info": {
+          "package_name": "com.taxiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695470357551-0kpd2dejqlakn3r9k7q042q99nhoou5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2EGthKG95S2ZstBOpadDBrd3dGmbLpQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695470357551-0kpd2dejqlakn3r9k7q042q99nhoou5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
